@@ -1,4 +1,4 @@
-# 📊 Bellabeat Case Study: Fitness Data Analysis Using Excel, SQL & Power BI
+# Bellabeat Case Study: Fitness Data Analysis Using Excel, SQL & Power BI
 
 ## About This Project
 
@@ -113,16 +113,16 @@ Bellabeat-Case-Study/
 
 ---
 
-## 📌 Key Deliverables
+## Key Deliverables
 
-* 📊 Interactive Power BI Dashboard
-* 🧮 SQL queries with documented logic
-* 📄 Written analytical report with insights and recommendations
-* 📽️ Executive-style presentation slides
+* Interactive Power BI Dashboard
+* SQL queries with documented logic
+* Written analytical report with insights and recommendations
+* Executive-style presentation slides
 
 ---
 
-## 📬 Contact
+## Contact
 
 If you’d like to discuss this project or explore collaboration opportunities:
 
