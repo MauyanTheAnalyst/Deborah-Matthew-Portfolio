@@ -1,6 +1,6 @@
 # 📊 Bellabeat Case Study: Fitness Data Analysis Using Excel, SQL & Power BI
 
-## 👋 About This Project
+## About This Project
 
 Hello! I’m **Deborah Matthew**, a Data Analyst with a strong interest in using data to drive **user-focused and business-driven decisions**.
 
@@ -8,7 +8,7 @@ This repository contains my **Bellabeat Case Study**, completed as part of the *
 
 ---
 
-## 🎯 Business Objective
+## Business Objective
 
 Bellabeat is a high-tech wellness company that develops smart products for women.
 The objective of this analysis was to:
@@ -19,7 +19,7 @@ The objective of this analysis was to:
 
 ---
 
-## 🛠️ Tools & Skills Used
+## Tools & Skills Used
 
 | Area                               | Tools                                                                                        |
 | ---------------------------------- | -------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ The objective of this analysis was to:
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 * Public Fitbit fitness tracker dataset
 * Includes daily activity, steps, calories, and sleep metrics
@@ -41,7 +41,7 @@ The objective of this analysis was to:
 
 ---
 
-## 🔍 Analytical Approach
+## Analytical Approach
 
 The analysis followed an end-to-end data workflow:
 
@@ -69,7 +69,7 @@ The analysis followed an end-to-end data workflow:
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 * Most users were **moderately active**, with activity peaking in the **early morning and evening**
 * A significant portion of users fell into **lightly active or fairly categories**
@@ -78,7 +78,7 @@ The analysis followed an end-to-end data workflow:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, the following recommendations were proposed for Bellabeat:
 
@@ -89,7 +89,7 @@ Based on the analysis, the following recommendations were proposed for Bellabeat
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Bellabeat-Case-Study/
